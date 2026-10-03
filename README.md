@@ -36,7 +36,7 @@ No external libraries are required.
 
 ### Step 1: Clone Repository
 ```bash
-git clone <your-github-repo-link>
+git clone https://github.com/nithin-yj/simple-port-scanner-python.git
 ```
 
 ### Step 2: Navigate to Project Folder
